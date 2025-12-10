@@ -24,19 +24,6 @@ Having both a **strong engineering background** and an **MBA** makes me a good f
 
 ## 🚀 Selected Projects
 
-### 👜 Mencanta – “The Tinder for handbags”
-
-A fashion discovery app where users swipe through handbags and get matched with products they love.
-
-- **1.5M+ registered users**.
-- Focus on engagement, retention, and conversion to sales.
-- Built and launched as a mobile app using hybrid technologies.
-
-Repos:
-- [`mencanta`](https://github.com/jmgb/mencanta)
-- [`mencanta_android`](https://github.com/jmgb/mencanta_android)
-
----
 
 ### 💼 PymeChat – WhatsApp + AI for SMEs
 
