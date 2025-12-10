@@ -2,6 +2,14 @@
 
 ...a digital entrepreneur who loves **building products that make people's lives better** — especially with **AI, automation, and lightweight web stacks**. I combine **software engineering** with **business and product thinking**, so I'm comfortable talking about both code and unit economics.
 
+![Python](https://img.shields.io/badge/Python-3.11+-informational)
+![JavaScript](https://img.shields.io/badge/JavaScript/TypeScript-%F0%9F%92%AA-informational)
+![React](https://img.shields.io/badge/React-SPA/PWA-informational)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers/Pages-informational)
+![AI](https://img.shields.io/badge/AI-LLMs%20%26%20Automation-informational)
+
+
+- 🔎 Currently focused on building and scaling AI-powered SaaS.
 - ⚙️ I design and build end-to-end automations (n8n, Make, custom APIs, LLMs).
 - 🌐 I ship fast, production-ready web projects (Python, JavaScript, React, PWAs, Cloudflare, HTML, CSS, Tailwind).
 - 📈 I always connect tech with **real business impact**: growth, retention, and revenue.
@@ -120,8 +128,6 @@ A fast, SEO-friendly portfolio site for an architect & interior designer.
 - Deployed on **Cloudflare** for performance and global edge delivery.
 - Mobile layout inspired by **Instagram-style vertical browsing**.
 
-Repo:
-- [`Nieves-Web`](https://github.com/jmgb/Nieves-Web)  
 - Live: https://nievescalvo.com
 
 ---
@@ -183,5 +189,6 @@ A selection of AI-driven and automation projects I’ve designed and built:
 
 ## 📫 Get in Touch
 
-- 🌐 Website: *https://aiship.co/*
-- 💼 LinkedIn: *https://www.linkedin.com/in/miguelgutierrezbarquin/*
+- 🌐 Website: *https://miguelgutierrezbarquin.com/*
+- 💼 Company: *https://aiship.co/*
+- 👥 LinkedIn: *https://www.linkedin.com/in/miguelgutierrezbarquin/*
