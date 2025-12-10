@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Miguel
+# 👋 Hi, I'm Miguel...
 
-I'm a digital entrepreneur who loves **building products that make people's lives better** — especially with **AI, automation, and lightweight web stacks**. I combine **software engineering** with **business and product thinking**, so I'm comfortable talking about both code and unit economics.
+...a digital entrepreneur who loves **building products that make people's lives better** — especially with **AI, automation, and lightweight web stacks**. I combine **software engineering** with **business and product thinking**, so I'm comfortable talking about both code and unit economics.
 
 - ⚙️ I design and build end-to-end automations (n8n, Make, custom APIs, LLMs).
 - 🌐 I ship fast, production-ready web projects (Python, JavaScript, React, PWAs, Cloudflare, HTML, CSS, Tailwind).
