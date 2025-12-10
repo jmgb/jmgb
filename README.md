@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Miguel...
+# 👋 Hi, I'm Miguel
 
-...a digital entrepreneur who loves **building products that make people's lives better** — especially with **AI, automation, and lightweight web stacks**. I combine **software engineering** with **business and product thinking**, so I'm comfortable talking about both code and unit economics.
+I'm a software engineer, digital entrepreneur and MBA who loves **building products that make people's lives better** — especially with **AI, automation, and lightweight web stacks**. I combine **engineering**, **product** and **business** thinking, so I'm comfortable talking about both code and unit economics.
 
 ![Python](https://img.shields.io/badge/Python-3.11+-informational)
 ![JavaScript](https://img.shields.io/badge/JavaScript/TypeScript-%F0%9F%92%AA-informational)
@@ -11,10 +11,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Gutiérrez-blue)](https://www.linkedin.com/in/miguelgutierrezbarquin/)
 [![Website](https://img.shields.io/badge/Website-aiship.co-black)](https://aiship.co/)
 
+**TL;DR**
+
+- 🧠 Software engineer + MBA building and shipping AI-powered SaaS products end-to-end.
+- 📊 Bridges LLMs, automation and lightweight web stacks with real business KPIs.
+- 🚀 Helped build and exit two companies: PlayGiga (acquired by Facebook., 2019) and co-founder of Draftea (sold my equity to Sequoia Capital,  2025).
+
 - 🔎 Currently focused on building and scaling AI-powered SaaS.
-- ⚙️ I design and build end-to-end automations (n8n, Make, custom APIs, LLMs).
 - 🌐 I ship fast, production-ready web projects (Python, JavaScript, React, PWAs, Cloudflare, HTML, CSS, Tailwind).
-- 📈 I always connect tech with **real business impact**: growth, retention, and revenue.
+- 🤝 I like owning both product and engineering: from architecture and APIs to user journeys and growth levers.
 
 Having both a **strong engineering background** and an **MBA** makes me a good fit for roles where you need someone who can:
 - Understand complex technical systems,
@@ -22,6 +27,7 @@ Having both a **strong engineering background** and an **MBA** makes me a good f
 - And align everything with business goals.
 
 ---
+
 
 ## 💼 How I Work
 
