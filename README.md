@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Miguel
 
-I'm an engineer and digital entrepreneur with an **MBA** who loves **building products that make people's lives better** — especially with **AI, automation, and lightweight web stacks**. I combine **software engineering** with **business and product thinking**, so I'm comfortable talking about both code and unit economics.
+I'm a digital entrepreneur who loves **building products that make people's lives better** — especially with **AI, automation, and lightweight web stacks**. I combine **software engineering** with **business and product thinking**, so I'm comfortable talking about both code and unit economics.
 
 - ⚙️ I design and build end-to-end automations (n8n, Make, custom APIs, LLMs).
-- 🌐 I ship fast, production-ready web projects (Python, JavaScript, **React**, **PWAs**, Cloudflare, HTML, CSS, Tailwind).
+- 🌐 I ship fast, production-ready web projects (Python, JavaScript, React, PWAs, Cloudflare, HTML, CSS, Tailwind).
 - 📈 I always connect tech with **real business impact**: growth, retention, and revenue.
 
 Having both a **strong engineering background** and an **MBA** makes me a good fit for roles where you need someone who can:
@@ -178,9 +178,9 @@ A selection of AI-driven and automation projects I’ve designed and built:
 
 **Web & Frontend**
 - HTML5, CSS3
-- **React**
+- React
 - Tailwind CSS
-- SPA & **PWA** patterns, static sites, SEO-friendly architectures
+- SPA & PWA patterns, static sites, SEO-friendly architectures
 
 **Infra & Deployment**
 - Cloudflare Workers / Pages
