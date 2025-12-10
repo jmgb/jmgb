@@ -8,6 +8,8 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers/Pages-informational)
 ![AI](https://img.shields.io/badge/AI-LLMs%20%26%20Automation-informational)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Gutiérrez-blue)](https://www.linkedin.com/in/miguelgutierrezbarquin/)
+[![Website](https://img.shields.io/badge/Website-aiship.co-black)](https://aiship.co/)
 
 - 🔎 Currently focused on building and scaling AI-powered SaaS.
 - ⚙️ I design and build end-to-end automations (n8n, Make, custom APIs, LLMs).
