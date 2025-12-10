@@ -22,7 +22,7 @@ Having both a **strong engineering background** and an **MBA** makes me a good f
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Projects I have created and launched
 
 
 ### 💼 PymeChat – WhatsApp + AI for SMEs
@@ -100,13 +100,13 @@ Live: https://guapify.me/
 
 ---
 
-### 🏋️ ReservaGym – Web app for booking gym time slots
+### 🏋️ ReservaGym – Auto-book your favorite gym classes
 
-A web app that lets users book a spot at the gym while helping gyms comply with capacity restrictions.
+A SaaS tool that automatically books your favorite gym classes the second slots open.
 
-- Created when government regulations required gyms to operate at reduced capacity.
-- Members can pick a time slot, reserve their spot, and avoid overcrowding at peak hours.
-- Built as a lightweight web application with a simple UX and fast onboarding for gyms.
+- Solves the problem of **having a gym membership but constantly missing out on your preferred classes** because they open 24–48 hours in advance and fill up fast.
+- You choose your **favorite trainer, class, and time**, and ReservaGym watches the booking window for you.
+- The system automatically reserves your spot **the exact second** registrations open, so you don’t have to be online, refreshing or checking the app all the time.
 
 Live: https://reservagym.com/
 
@@ -183,5 +183,5 @@ A selection of AI-driven and automation projects I’ve designed and built:
 
 ## 📫 Get in Touch
 
-- 🌐 Website / portfolio: *https://aiship.co/*
+- 🌐 Website: *https://aiship.co/*
 - 💼 LinkedIn: *https://www.linkedin.com/in/miguelgutierrezbarquin/*
