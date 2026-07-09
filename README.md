@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Miguel
 
-**Software engineer + MBA** building and shipping **AI-powered SaaS products end-to-end** — from architecture and APIs to user journeys and unit economics. Founder at [aiship](https://aiship.co/).
+**Software engineer + MBA** building and shipping **AI-powered SaaS products end-to-end**.
 
 [![Website](https://img.shields.io/badge/Website-miguelgutierrezbarquin.com-black)](https://miguelgutierrezbarquin.com/)
 [![aiship](https://img.shields.io/badge/Company-aiship.co-blueviolet)](https://aiship.co/)
