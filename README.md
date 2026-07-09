@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Website-miguelgutierrezbarquin.com-black)](https://miguelgutierrezbarquin.com/)
 [![Presupuestor](https://img.shields.io/badge/Building-presupuestor.com-blueviolet)](https://presupuestor.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Gutiérrez-blue)](https://www.linkedin.com/in/miguelgutierrezbarquin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Gutiérrez--Barquín-blue)](https://www.linkedin.com/in/miguelgutierrezbarquin/)
 
 **TL;DR**
 
@@ -59,7 +59,7 @@ A selection of AI-driven systems I've designed and built for clients and myself:
 
 ---
 
-![If you want to go fast and far, go with agents. — Miguel, solo founder, Presupuestor](assets/motto-d2-photo.svg)
+![If you want to go fast and far, go with agents. — Miguel Gutiérrez-Barquín, solo founder, Presupuestor](assets/motto-d2-photo.svg)
 
 ---
 
