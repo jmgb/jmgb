@@ -3,7 +3,7 @@
 **Software engineer + MBA** building and shipping **AI-powered SaaS products end-to-end**.
 
 [![Website](https://img.shields.io/badge/Website-miguelgutierrezbarquin.com-black)](https://miguelgutierrezbarquin.com/)
-[![aiship](https://img.shields.io/badge/Company-aiship.co-blueviolet)](https://aiship.co/)
+[![Presupuestor](https://img.shields.io/badge/Building-presupuestor.com-blueviolet)](https://presupuestor.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Gutiérrez-blue)](https://www.linkedin.com/in/miguelgutierrezbarquin/)
 
 **TL;DR**
@@ -63,5 +63,5 @@ A selection of AI-driven systems I've designed and built for clients and myself:
 ## 📫 Get in touch
 
 - 🌐 Website: [miguelgutierrezbarquin.com](https://miguelgutierrezbarquin.com/)
-- 💼 Company: [aiship.co](https://aiship.co/)
+- 🧱 Building: [presupuestor.com](https://presupuestor.com/)
 - 👥 LinkedIn: [linkedin.com/in/miguelgutierrezbarquin](https://www.linkedin.com/in/miguelgutierrezbarquin/)
