@@ -13,26 +13,7 @@
 - ⚡ Strong bias for shipping: idea → production fast, measured against real business KPIs, not vanity metrics.
 - 🤝 Comfortable talking about both **code and unit economics** — I bridge complex technical systems, product strategy and business goals.
 
-> *If you want to go fast, go alone. If you want to go far, go together.*
-> ***If you want to go fast and far, go with agents.***
-
-<!-- Motto design options — temporary showcase, pick one and delete the rest -->
-
-**Option B+C — Fade-in, then typewriter reveal with blinking caret (animated)**
-
-![Motto BC](assets/motto-bc-animated.svg)
-
-**Option D — Brand card (theme-proof, Presupuestor palette)**
-
-![Motto D](assets/motto-d-card.svg)
-
-**Option D2 — Brand card with photo (quote attribution)**
-
-![Motto D2](assets/motto-d2-photo.svg)
-
-**Option D3 — Brand card with silhouette**
-
-![Motto D3](assets/motto-d3-silhouette.svg)
+![If you want to go fast, go alone. If you want to go far, go together. If you want to go fast and far, go with agents.](assets/motto-bc-animated.svg)
 
 ---
 
@@ -75,6 +56,10 @@ A selection of AI-driven systems I've designed and built for clients and myself:
 **Backend & infra** · FastAPI · PostgreSQL (Supabase) · Redis · Docker · Cloudflare Workers / Pages · Netlify
 
 **AI & automation** · LLM agents & assistants (OpenAI, Gemini, Claude) · REST APIs / webhooks · n8n · Make
+
+---
+
+![If you want to go fast and far, go with agents. — Miguel, solo founder, Presupuestor](assets/motto-d2-photo.svg)
 
 ---
 
