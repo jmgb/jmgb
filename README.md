@@ -18,21 +18,21 @@
 
 <!-- Motto design options — temporary showcase, pick one and delete the rest -->
 
-**Option A — Minimal (static, dark/light adaptive)**
+**Option B+C — Fade-in, then typewriter reveal with blinking caret (animated)**
 
-![Motto A](assets/motto-a-minimal.svg)
-
-**Option B — Sequential fade-in (animated)**
-
-![Motto B](assets/motto-b-fade.svg)
-
-**Option C — Typewriter reveal (animated, blinking caret)**
-
-![Motto C](assets/motto-c-typewriter.svg)
+![Motto BC](assets/motto-bc-animated.svg)
 
 **Option D — Brand card (theme-proof, Presupuestor palette)**
 
 ![Motto D](assets/motto-d-card.svg)
+
+**Option D2 — Brand card with photo (quote attribution)**
+
+![Motto D2](assets/motto-d2-photo.svg)
+
+**Option D3 — Brand card with silhouette**
+
+![Motto D3](assets/motto-d3-silhouette.svg)
 
 ---
 

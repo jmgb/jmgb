@@ -3,24 +3,27 @@
     .muted { font: italic 400 17px "Segoe UI", Helvetica, Arial, sans-serif; fill: #59636e; }
     .final { font: 700 25px "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }
     .accent { fill: #0848e2; }
-    .caret { fill: #0848e2; opacity: 0; animation: blink 1.1s step-end 3.6s infinite; }
+    .caret { fill: #0848e2; opacity: 0; animation: blink 1.1s step-end 5s infinite; }
     @media (prefers-color-scheme: dark) {
       .muted { fill: #9198a1; }
       .final { fill: #f0f6fc; }
       .accent { fill: #4479f8; }
       .caret { fill: #4479f8; }
     }
+    .l1 { animation: fadein 0.9s ease-out both; }
+    .l2 { animation: fadein 0.9s ease-out 1s both; }
+    @keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
     @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
   </style>
   <defs>
     <mask id="wipe">
       <rect x="95" y="96" width="0" height="40" fill="#ffffff">
-        <animate attributeName="width" from="0" to="640" begin="0.8s" dur="2.6s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="640" begin="2.2s" dur="2.6s" fill="freeze"/>
       </rect>
     </mask>
   </defs>
-  <text class="muted" x="410" y="42" text-anchor="middle">If you want to go fast, go alone.</text>
-  <text class="muted" x="410" y="74" text-anchor="middle">If you want to go far, go together.</text>
+  <text class="muted l1" x="410" y="42" text-anchor="middle">If you want to go fast, go alone.</text>
+  <text class="muted l2" x="410" y="74" text-anchor="middle">If you want to go far, go together.</text>
   <text class="final" x="410" y="122" text-anchor="middle" mask="url(#wipe)">If you want to go fast and far, <tspan class="accent">go with agents</tspan>.</text>
   <rect class="caret" x="722" y="100" width="3" height="27"/>
 </svg>
