@@ -9,7 +9,7 @@
 **TL;DR**
 
 - 🚀 Two exits: **PlayGiga** (acquired by **Facebook**, 2019) and co-founder of **Draftea** (sold my equity to **Sequoia Capital**, 2025).
-- 🧠 Currently building and scaling **AI SaaS** at [aiship](https://aiship.co/), owning product, engineering and growth.
+- 🧠 Currently building and scaling **AI SaaS for the construction industry** ([Presupuestor](https://presupuestor.com/)) — owning product, engineering and growth.
 - ⚡ Strong bias for shipping: idea → production fast, measured against real business KPIs, not vanity metrics.
 - 🤝 Comfortable talking about both **code and unit economics** — I bridge complex technical systems, product strategy and business goals.
 
