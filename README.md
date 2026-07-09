@@ -1,202 +1,64 @@
 # 👋 Hi, I'm Miguel
 
-I'm a software engineer, digital entrepreneur and MBA who loves **building products that make people's lives better** — especially with **AI, automation, and lightweight web stacks**. I combine **engineering**, **product** and **business** thinking, so I'm comfortable talking about both code and unit economics.
+**Software engineer + MBA** building and shipping **AI-powered SaaS products end-to-end** — from architecture and APIs to user journeys and unit economics. Founder at [aiship](https://aiship.co/).
 
-![Python](https://img.shields.io/badge/Python-3.11+-informational)
-![JavaScript](https://img.shields.io/badge/JavaScript/TypeScript-%F0%9F%92%AA-informational)
-![React](https://img.shields.io/badge/React-SPA/PWA-informational)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers/Pages-informational)
-![AI](https://img.shields.io/badge/AI-LLMs%20%26%20Automation-informational)
-
+[![Website](https://img.shields.io/badge/Website-miguelgutierrezbarquin.com-black)](https://miguelgutierrezbarquin.com/)
+[![aiship](https://img.shields.io/badge/Company-aiship.co-blueviolet)](https://aiship.co/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Gutiérrez-blue)](https://www.linkedin.com/in/miguelgutierrezbarquin/)
-[![Website](https://img.shields.io/badge/Website-aiship.co-black)](https://aiship.co/)
 
 **TL;DR**
 
-- 🧠 Software engineer + MBA building and shipping AI-powered SaaS products end-to-end.
-- 📊 Bridges LLMs, automation and lightweight web stacks with real business KPIs.
-- 🚀 Helped build and exit two companies: PlayGiga (acquired by Facebook., 2019) and co-founder of Draftea (sold my equity to Sequoia Capital,  2025).
-
-- 🔎 Currently focused on building and scaling AI-powered SaaS.
-- 🌐 I ship fast, production-ready web projects (Python, JavaScript, React, PWAs, Cloudflare, HTML, CSS, Tailwind).
-- 🤝 I like owning both product and engineering: from architecture and APIs to user journeys and growth levers.
-
-Having both a **strong engineering background** and an **MBA** makes me a good fit for roles where you need someone who can:
-- Understand complex technical systems,
-- Shape product strategy,
-- And align everything with business goals.
+- 🚀 Two exits: **PlayGiga** (acquired by **Facebook**, 2019) and co-founder of **Draftea** (sold my equity to **Sequoia Capital**, 2025).
+- 🧠 Currently building and scaling **AI SaaS** at [aiship](https://aiship.co/), owning product, engineering and growth.
+- ⚡ Strong bias for shipping: idea → production fast, measured against real business KPIs, not vanity metrics.
+- 🤝 Comfortable talking about both **code and unit economics** — I bridge complex technical systems, product strategy and business goals.
 
 ---
 
+## 🚀 Products I've built & launched
 
-## 💼 How I Work
-
-- I take ideas from **scratch to production** quickly, with a strong bias for shipping.
-- I care about **developer experience**, but even more about **user impact and business outcomes**.
-- I bridge product, tech, and growth: it’s not just about code, but about results.
-- I like working on problems where AI and automation can remove friction and create leverage.
-
----
-
-## 🚀 Projects I have created and launched
-
-
-### 💼 PymeChat – WhatsApp + AI for SMEs
-
-AI agent for small and medium businesses that turns their website into a 24/7 sales and support assistant.
-
-- **“Your AI agent ready in 2 minutes”**: enter your website URL and the agent is trained automatically on your business.
-- Available on **web and WhatsApp**, answering FAQs, handling leads, and assisting with pre-sales.
-- Built for **non-technical SMEs**: no complex setup, just plug & play.
-
-Live: https://pymechat.com
+| Product | What it does |
+|---|---|
+| 🧱 [**Presupuestor**](https://presupuestor.com/) | AI that generates professional construction & renovation budgets in minutes, using up-to-date market prices. Built for pros tired of quoting by hand. |
+| 💼 [**PymeChat**](https://pymechat.com) | *"Your AI agent ready in 2 minutes"* — enter your website URL and get a 24/7 sales & support agent on web and WhatsApp. Plug & play for non-technical SMEs. |
+| 🏙️ [**Licenciator**](https://licenciator.es/) | B2B AI for Spanish urban-planning entities (ECUs): automatic document verification, virtual assistant for license queries, and AI-drafted technical reports. |
+| 📊 [**TopInvestors**](https://topinvestors.net) | Real-time analysis of your stocks through the lens of the **top 100 market analysts** — expert insights without the raw-data overwhelm. |
+| ⚡ [**RapidTicker**](https://rapidticker.com) | Ultra-fast stock alerts via Email, WhatsApp & Telegram. Monitors SEC filings, press releases, NASDAQ & FINRA and pushes market-moving news within seconds. |
+| 💬 [**Guapify**](https://guapify.me/) | Consumer AI that enhances and optimizes photos to improve first impressions and match rate on dating apps. |
+| 🏋️ [**ReservaGym**](https://reservagym.com/) | Auto-books your favorite gym classes **the exact second** slots open — no more refreshing the app at midnight. |
+| 🏛️ [**Nieves Calvo**](https://nievescalvo.com) | Fast, SEO-friendly portfolio for an architect & interior designer. Static hosting + dynamic UX, deployed on Cloudflare's edge. |
 
 ---
 
-### 📊 TopInvestors – Insights from top market analysts
+## 🤖 AI & automation portfolio (2023–2025)
 
-A platform that helps retail investors follow what top analysts are doing in the markets.
+A selection of AI-driven systems I've designed and built for clients and myself:
 
-- **Real-time analysis** of your favourite stocks through the lens of the **top 100 market analysts**.
-- Shows expert insights, ideas, and moves so users can “put their money to work” with better information.
-- Focus on clarity and usability rather than overwhelming users with raw data.
-
-Live: https://topinvestors.net
-
----
-
-### ⚡ RapidTicker – Ultra-fast stock news alerts
-
-A real-time alerting platform for traders and investors.
-
-- Sends **ultra-fast stock market alerts** via **Email, WhatsApp, and Telegram**.
-- Monitors **SEC filings, press releases, NASDAQ & FINRA alerts** and pushes breaking news within seconds.
-- Designed to help users **stop missing market-moving news** and react quickly to events.
-
-Live: https://rapidticker.com
+- **AI Algotrader** — trading bot that analyzes SEC filings from publicly traded companies to derive signals.
+- **AI Setter Chatbot** — multichannel agent (Instagram, WhatsApp, web) that qualifies leads and automates customer engagement.
+- **Outbound Email AI** — analyzes incoming email, drafts replies and automates follow-ups; improved campaign conversion by **+25%**.
+- **Robo AI Caller** — voice AI for outbound & inbound calls with personalized conversations for conversion and retention.
+- **Meeting Transcript Service** — listens to in-person meetings, produces a structured legally-oriented summary, collects signatures and emails the PDF to all attendees.
+- **Influencer Digital Clone** — replicates an influencer's tone and knowledge to engage followers at scale, on-brand.
+- **LinkedIn Automation** — Chrome extension that automates content engagement to grow visibility and reach.
+- **Pet Owners Chatbot** — WhatsApp-style assistant answering pet care, behavior and lifestyle questions.
 
 ---
 
-### 🏙️ Licenciator – AI for Urban Planning Partners (ECUs)
+## 🛠️ Tech stack
 
-B2B AI platform for **Entidades Colaboradoras Urbanísticas (ECUs)** and professionals who handle building permits in Spain.
+**Languages** · Python · TypeScript / JavaScript · Bash
 
-- Helps ECUs and technical offices **process urban planning licenses** more efficiently.
-- MVP built around three AI “pilots”:
-  - **Verification**: automatic checking of urban planning documents (missing files, technical errors, smart checklists).
-  - **Customer Support**: virtual assistant for questions about licenses, regulations, and application status.
-  - **Report Generation**: AI-assisted drafting of technical reports and analysis of urban planning regulations.
-- SaaS model: no upfront investment in software development or infrastructure for the client.
+**Web** · React (SPA / PWA) · Tailwind CSS · HTML5 / CSS3 · SEO-friendly architectures
 
-Live: https://licenciator.es/
+**Backend & infra** · FastAPI · PostgreSQL (Supabase) · Redis · Docker · Cloudflare Workers / Pages · Netlify
+
+**AI & automation** · LLM agents & assistants (OpenAI, Gemini, Claude) · REST APIs / webhooks · n8n · Make
 
 ---
 
-### 🧱 Presupuestor – AI for Construction & Renovation Quotes
+## 📫 Get in touch
 
-AI tool to generate professional construction and renovation budgets in minutes.
-
-- The AI **analyzes the renovation**, estimates materials, and generates a detailed quote.
-- Uses **updated prices** so budgets are realistic and ready to send to clients.
-- Focused on professionals who are tired of spending hours manually preparing quotes.
-
-Live: https://presupuestor.com/
-
----
-
-### 💬 Guapify – AI that helps you stand out on dating apps
-
-A consumer AI product that helps people look better online and get more matches.
-
-- Uses AI to **enhance and optimize photos** so they project higher value and confidence on dating apps and social media.
-- Designed to improve **first impressions**, match rate, and quality of conversations.
-- Focus on a simple UX: upload photos, get AI-enhanced results tailored for online dating.
-
-Live: https://guapify.me/
-
----
-
-### 🏋️ ReservaGym – Auto-book your favorite gym classes
-
-A SaaS tool that automatically books your favorite gym classes the second slots open.
-
-- Solves the problem of **having a gym membership but constantly missing out on your preferred classes** because they open 24–48 hours in advance and fill up fast.
-- You choose your **favorite trainer, class, and time**, and ReservaGym watches the booking window for you.
-- The system automatically reserves your spot **the exact second** registrations open, so you don’t have to be online, refreshing or checking the app all the time.
-
-Live: https://reservagym.com/
-
----
-
-### 🏛️ Nieves Calvo – Architecture & Interior Design Portfolio
-
-A fast, SEO-friendly portfolio site for an architect & interior designer.
-
-- Single Page Application with **static hosting + dynamic UX**.
-- Deployed on **Cloudflare** for performance and global edge delivery.
-- Mobile layout inspired by **Instagram-style vertical browsing**.
-
-- Live: https://nievescalvo.com
-
----
-
-## 🤖 AI & Automation Projects (2023–2025)
-
-A selection of AI-driven and automation projects I’ve designed and built:
-
-- **Trading bot – AI Algotrader**  
-  AI-driven algotrader that analyzes **SEC filings** from publicly traded companies (2023–2025) to derive trading insights and signals.
-
-- **AI Setter Chatbot**  
-  Multichannel AI agent that integrates with **Instagram, WhatsApp, and web**, automating customer engagement, qualifying leads, and streamlining inbound inquiries.
-
-- **Outbound Email AI Service**  
-  Service that analyzes incoming emails, drafts replies, and automates follow-ups for outbound campaigns, improving **marketing engagement & conversion rates by +25%**.
-
-- **Pet Owners Chatbot**  
-  WhatsApp-style conversational assistant that delivers advice and support for pet owners, answering questions about pet care, behavior, and lifestyle.
-
-- **LinkedIn Automation – Chrome Extension**  
-  Chrome extension that automates **content engagement on LinkedIn**, sourcing material from articles and interacting with influencers’ posts to increase visibility and reach.
-
-- **Influencer Digital Clone**  
-  AI clone that replicates an influencer’s **speech patterns, tone, and knowledge**, engaging with followers at scale while staying on-brand.
-
-- **Meeting Transcript Service**  
-  Service that listens to **in-person meetings**, generates a structured and legally oriented summary, allows participants to sign it, and sends a **PDF** to all attendees.
-
-- **Robo AI Caller**  
-  Voice AI system that automates **outbound and inbound phone calls** to leads and customers, delivering personalized conversations to improve conversion and retention.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-- Python
-- JavaScript / TypeScript
-- Bash
-
-**Web & Frontend**
-- HTML5, CSS3
-- React
-- Tailwind CSS
-- SPA & PWA patterns, static sites, SEO-friendly architectures
-
-**Infra & Deployment**
-- Cloudflare Workers / Pages
-- Netlify
-- Docker
-
-**Automation & AI**
-- n8n, Make
-- REST APIs / webhooks
-- LLM-based agents and assistants (OpenAI, Gemini, Claude, etc.)
-
----
-
-## 📫 Get in Touch
-
-- 🌐 Website: *https://miguelgutierrezbarquin.com/*
-- 💼 Company: *https://aiship.co/*
-- 👥 LinkedIn: *https://www.linkedin.com/in/miguelgutierrezbarquin/*
+- 🌐 Website: [miguelgutierrezbarquin.com](https://miguelgutierrezbarquin.com/)
+- 💼 Company: [aiship.co](https://aiship.co/)
+- 👥 LinkedIn: [linkedin.com/in/miguelgutierrezbarquin](https://www.linkedin.com/in/miguelgutierrezbarquin/)
