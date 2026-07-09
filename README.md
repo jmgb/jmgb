@@ -16,6 +16,24 @@
 > *If you want to go fast, go alone. If you want to go far, go together.*
 > ***If you want to go fast and far, go with agents.***
 
+<!-- Motto design options — temporary showcase, pick one and delete the rest -->
+
+**Option A — Minimal (static, dark/light adaptive)**
+
+![Motto A](assets/motto-a-minimal.svg)
+
+**Option B — Sequential fade-in (animated)**
+
+![Motto B](assets/motto-b-fade.svg)
+
+**Option C — Typewriter reveal (animated, blinking caret)**
+
+![Motto C](assets/motto-c-typewriter.svg)
+
+**Option D — Brand card (theme-proof, Presupuestor palette)**
+
+![Motto D](assets/motto-d-card.svg)
+
 ---
 
 ## 🚀 Products I've built & launched

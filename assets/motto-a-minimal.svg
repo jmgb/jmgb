@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="150" viewBox="0 0 820 150" role="img" aria-label="If you want to go fast, go alone. If you want to go far, go together. If you want to go fast and far, go with agents.">
+  <style>
+    .muted { font: italic 400 17px "Segoe UI", Helvetica, Arial, sans-serif; fill: #59636e; }
+    .final { font: 700 25px "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .accent { fill: #0848e2; }
+    @media (prefers-color-scheme: dark) {
+      .muted { fill: #9198a1; }
+      .final { fill: #f0f6fc; }
+      .accent { fill: #4479f8; }
+    }
+  </style>
+  <text class="muted" x="410" y="42" text-anchor="middle">If you want to go fast, go alone.</text>
+  <text class="muted" x="410" y="74" text-anchor="middle">If you want to go far, go together.</text>
+  <text class="final" x="410" y="122" text-anchor="middle">If you want to go fast and far, <tspan class="accent">go with agents</tspan>.</text>
+</svg>
