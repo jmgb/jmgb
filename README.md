@@ -22,6 +22,7 @@
 | Product | What it does |
 |---|---|
 | 🧱 [**Presupuestor**](https://presupuestor.com/) | AI that generates professional construction & renovation budgets in minutes, using up-to-date market prices. Built for pros tired of quoting by hand. |
+| 🐾 **Tuli** | AI-powered pet photo service that turns your pet into a new creative adventure every week. |
 | 💼 [**PymeChat**](https://pymechat.com) | *"Your AI agent ready in 2 minutes"* — enter your website URL and get a 24/7 sales & support agent on web and WhatsApp. Plug & play for non-technical SMEs. |
 | 🏙️ [**Licenciator**](https://licenciator.es/) | B2B AI for Spanish urban-planning entities (ECUs): automatic document verification, virtual assistant for license queries, and AI-drafted technical reports. |
 | 📊 [**TopInvestors**](https://topinvestors.net) | Real-time analysis of your stocks through the lens of the **top 100 market analysts** — expert insights without the raw-data overwhelm. |
