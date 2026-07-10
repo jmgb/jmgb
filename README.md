@@ -23,7 +23,7 @@
 |---|---|
 | 🧱 [**Presupuestor**](https://presupuestor.com/) | AI that generates professional construction & renovation budgets in minutes, using up-to-date market prices. Built for pros tired of quoting by hand. |
 | 🐾 **Tuli** | AI-powered pet photo service that turns your pet into a new creative adventure every week. |
-| 🎮 [**PlayGiga**](https://techcrunch.com/2019/12/18/facebook-acquires-madrid-based-cloud-gaming-startup-playgiga/) | Cloud gaming platform acquired by Facebook in 2019. |
+| 🎮 [**PlayGiga**](https://cincodias.elpais.com/cincodias/2019/12/19/companias/1576740983_574323.html) | Cloud gaming platform acquired by Facebook in 2019. |
 | 🏈 [**Draftea**](https://www.draftea.mx/) | Sports gaming platform for Spanish-speaking markets. |
 | 📱 [**Mencanta**](https://mencantabrand.com/) | Mobile product and consumer brand. |
 | 💼 [**PymeChat**](https://pymechat.com) | *"Your AI agent ready in 2 minutes"* — enter your website URL and get a 24/7 sales & support agent on web and WhatsApp. Plug & play for non-technical SMEs. |
