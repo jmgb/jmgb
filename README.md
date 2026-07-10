@@ -28,7 +28,7 @@
   </thead>
   <tbody>
     <tr><td>🧱 <a href="https://presupuestor.com/"><strong>Presupuestor</strong></a></td><td>AI that generates professional construction &amp; renovation budgets in minutes, using up-to-date market prices. Built for pros tired of quoting by hand.</td></tr>
-    <tr><td>🐾 <strong>Tuli</strong></td><td>AI-powered pet photo service that turns your pet into a new creative adventure every week.</td></tr>
+    <tr><td>🐾 <a href="https://tuli.es/"><strong>Tuli</strong></a></td><td>AI-powered pet photo service that turns your pet into a new creative adventure every week.</td></tr>
     <tr><td>🎮 <a href="https://cincodias.elpais.com/cincodias/2019/12/19/companias/1576740983_574323.html"><strong>PlayGiga</strong></a></td><td>Cloud gaming platform acquired by Facebook in 2019.</td></tr>
     <tr><td>🏈 <a href="https://www.draftea.mx/"><strong>Draftea</strong></a></td><td>Sports gaming platform for Spanish-speaking markets.</td></tr>
     <tr><td>📱 <a href="https://mencantabrand.com/"><strong>MencantaBrand</strong></a></td><td>Started as Mencanta, a “Tinder for fashion” app; it later evolved into a women’s clothing brand.</td></tr>
