@@ -13,7 +13,7 @@
 - ⚡ Strong bias for shipping: idea → production fast, measured against real business KPIs, not vanity metrics.
 - 🤝 Comfortable talking about both **code and unit economics** — I bridge complex technical systems, product strategy and business goals.
 
-![If you want to go fast, go alone. If you want to go far, go together. If you want to go fast and far, go with agents.](assets/motto-bc-animated.svg)
+<img src="assets/motto-bc-animated.svg" width="100%" alt="If you want to go fast, go alone. If you want to go far, go together. If you want to go fast and far, go with agents." />
 
 ---
 
