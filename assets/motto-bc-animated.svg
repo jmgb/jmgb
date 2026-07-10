@@ -17,8 +17,8 @@
   </style>
   <defs>
     <mask id="wipe">
-      <rect x="80" y="104" width="0" height="100" fill="#ffffff">
-        <animate attributeName="width" from="0" to="440" begin="2.2s" dur="2.6s" fill="freeze"/>
+      <rect x="0" y="104" width="0" height="100" fill="#ffffff">
+        <animate attributeName="width" from="0" to="600" begin="2.2s" dur="2.6s" fill="freeze"/>
       </rect>
     </mask>
   </defs>
