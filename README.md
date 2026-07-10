@@ -22,7 +22,7 @@
 <table>
   <thead>
     <tr>
-      <th width="32%">Product</th>
+      <th width="24%">Product</th>
       <th>What it does</th>
     </tr>
   </thead>
