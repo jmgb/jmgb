@@ -19,20 +19,28 @@
 
 ## 🚀 Products I've built & launched
 
-| Product | What it does |
-|---|---|
-| 🧱 [**Presupuestor**](https://presupuestor.com/) | AI that generates professional construction & renovation budgets in minutes, using up-to-date market prices. Built for pros tired of quoting by hand. |
-| 🐾 **Tuli** | AI-powered pet photo service that turns your pet into a new creative adventure every week. |
-| 🎮 [**PlayGiga**](https://cincodias.elpais.com/cincodias/2019/12/19/companias/1576740983_574323.html) | Cloud gaming platform acquired by Facebook in 2019. |
-| 🏈 [**Draftea**](https://www.draftea.mx/) | Sports gaming platform for Spanish-speaking markets. |
-| 📱 [**Mencanta**](https://mencantabrand.com/) | Mobile product and consumer brand. |
-| 💼 [**PymeChat**](https://pymechat.com) | *"Your AI agent ready in 2 minutes"* — enter your website URL and get a 24/7 sales & support agent on web and WhatsApp. Plug & play for non-technical SMEs. |
-| 🏙️ [**Licenciator**](https://licenciator.es/) | B2B AI for Spanish urban-planning entities (ECUs): automatic document verification, virtual assistant for license queries, and AI-drafted technical reports. |
-| 📊 [**TopInvestors**](https://topinvestors.net) | Real-time analysis of your stocks through the lens of the **top 100 market analysts** — expert insights without the raw-data overwhelm. |
-| ⚡ [**RapidTicker**](https://rapidticker.com) | Ultra-fast stock alerts via Email, WhatsApp & Telegram. Monitors SEC filings, press releases, NASDAQ & FINRA and pushes market-moving news within seconds. |
-| 💬 [**Guapify**](https://guapify.me/) | Consumer AI that enhances and optimizes photos to improve first impressions and match rate on dating apps. |
-| 🏋️ [**ReservaGym**](https://reservagym.com/) | Auto-books your favorite gym classes **the exact second** slots open — no more refreshing the app at midnight. |
-| 🏛️ [**Nieves Calvo**](https://nievescalvo.com) | Fast, SEO-friendly portfolio for an architect & interior designer. Static hosting + dynamic UX, deployed on Cloudflare's edge. |
+<table>
+  <thead>
+    <tr>
+      <th width="32%">Product</th>
+      <th>What it does</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>🧱 <a href="https://presupuestor.com/"><strong>Presupuestor</strong></a></td><td>AI that generates professional construction &amp; renovation budgets in minutes, using up-to-date market prices. Built for pros tired of quoting by hand.</td></tr>
+    <tr><td>🐾 <strong>Tuli</strong></td><td>AI-powered pet photo service that turns your pet into a new creative adventure every week.</td></tr>
+    <tr><td>🎮 <a href="https://cincodias.elpais.com/cincodias/2019/12/19/companias/1576740983_574323.html"><strong>PlayGiga</strong></a></td><td>Cloud gaming platform acquired by Facebook in 2019.</td></tr>
+    <tr><td>🏈 <a href="https://www.draftea.mx/"><strong>Draftea</strong></a></td><td>Sports gaming platform for Spanish-speaking markets.</td></tr>
+    <tr><td>📱 <a href="https://mencantabrand.com/"><strong>MencantaBrand</strong></a></td><td>Started as Mencanta, a “Tinder for fashion” app; it later evolved into a women’s clothing brand.</td></tr>
+    <tr><td>💼 <a href="https://pymechat.com"><strong>PymeChat</strong></a></td><td><em>“Your AI agent ready in 2 minutes”</em> — enter your website URL and get a 24/7 sales &amp; support agent on web and WhatsApp. Plug &amp; play for non-technical SMEs.</td></tr>
+    <tr><td>🏙️ <a href="https://licenciator.es/"><strong>Licenciator</strong></a></td><td>B2B AI for Spanish urban-planning entities (ECUs): automatic document verification, virtual assistant for license queries, and AI-drafted technical reports.</td></tr>
+    <tr><td>📊 <a href="https://topinvestors.net"><strong>TopInvestors</strong></a></td><td>Real-time analysis of your stocks through the lens of the <strong>top 100 market analysts</strong> — expert insights without the raw-data overwhelm.</td></tr>
+    <tr><td>⚡ <a href="https://rapidticker.com"><strong>RapidTicker</strong></a></td><td>Ultra-fast stock alerts via Email, WhatsApp &amp; Telegram. Monitors SEC filings, press releases, NASDAQ &amp; FINRA and pushes market-moving news within seconds.</td></tr>
+    <tr><td>💬 <a href="https://guapify.me/"><strong>Guapify</strong></a></td><td>Consumer AI that enhances and optimizes photos to improve first impressions and match rate on dating apps.</td></tr>
+    <tr><td>🏋️ <a href="https://reservagym.com/"><strong>ReservaGym</strong></a></td><td>Auto-books your favorite gym classes <strong>the exact second</strong> slots open — no more refreshing the app at midnight.</td></tr>
+    <tr><td>🏛️ <a href="https://nievescalvo.com"><strong>Nieves Calvo</strong></a></td><td>Fast, SEO-friendly portfolio for an architect &amp; interior designer. Static hosting + dynamic UX, deployed on Cloudflare's edge.</td></tr>
+  </tbody>
+</table>
 
 ---
 
