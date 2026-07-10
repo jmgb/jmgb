@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="440" viewBox="0 0 600 440" preserveAspectRatio="xMidYMid meet" role="img" aria-label="If you want to go fast, go alone. If you want to go far, go together. If you want to go fast and far, go with agents.">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="172" viewBox="0 0 600 172" preserveAspectRatio="xMidYMid meet" role="img" aria-label="If you want to go fast, go alone. If you want to go far, go together. If you want to go fast and far, go with agents.">
   <style>
-    .muted { font: italic 400 34px "Segoe UI", Helvetica, Arial, sans-serif; fill: #59636e; }
-    .final { font: 700 48px "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .muted { font: italic 400 30px "Segoe UI", Helvetica, Arial, sans-serif; fill: #59636e; }
+    .final { font: 700 26px "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }
     .accent { fill: #0848e2; }
     .caret { fill: #0848e2; opacity: 0; animation: blink 1.1s step-end 5s infinite; }
     @media (prefers-color-scheme: dark) {
@@ -17,23 +17,13 @@
   </style>
   <defs>
     <mask id="wipe">
-      <rect x="70" y="212" width="0" height="190" fill="#ffffff">
-        <animate attributeName="width" from="0" to="460" begin="2.2s" dur="2.6s" fill="freeze"/>
+      <rect x="0" y="108" width="0" height="44" fill="#ffffff">
+        <animate attributeName="width" from="0" to="600" begin="2.2s" dur="2.6s" fill="freeze"/>
       </rect>
     </mask>
   </defs>
-  <g class="muted l1" text-anchor="middle">
-    <text x="300" y="52">If you want to go fast,</text>
-    <text x="300" y="94">go alone.</text>
-  </g>
-  <g class="muted l2" text-anchor="middle">
-    <text x="300" y="150">If you want to go far,</text>
-    <text x="300" y="192">go together.</text>
-  </g>
-  <g class="final" text-anchor="middle" mask="url(#wipe)">
-    <text x="300" y="272">If you want to go</text>
-    <text x="300" y="328">fast and far,</text>
-    <text x="300" y="384"><tspan class="accent">go with agents</tspan>.</text>
-  </g>
-  <rect class="caret" x="482" y="348" width="4" height="48"/>
+  <text class="muted l1" x="300" y="44" text-anchor="middle">If you want to go fast, go alone.</text>
+  <text class="muted l2" x="300" y="88" text-anchor="middle">If you want to go far, go together.</text>
+  <text class="final" x="300" y="142" text-anchor="middle" mask="url(#wipe)" textLength="560" lengthAdjust="spacingAndGlyphs">If you want to go fast and far, <tspan class="accent">go with agents</tspan>.</text>
+  <rect class="caret" x="588" y="116" width="3" height="30"/>
 </svg>
