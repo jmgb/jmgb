@@ -8,7 +8,7 @@
 
 **TL;DR**
 
-- 🚀 Two exits: **PlayGiga** (acquired by **Facebook**, 2019) and co-founder of **Draftea** (sold my equity to **Sequoia Capital**, 2025).
+- 🚀 Two exits: **PlayGiga** (acquired by **Facebook**, 2019) and co-founder of **Draftea** (sold my equity to **Sequoia Capital**).
 - 🧠 Currently building and scaling **AI SaaS for the construction industry** ([Presupuestor](https://presupuestor.com/)) as a **solo founder** — a *company of one* running on **multiple AI agents**, owning product, engineering and growth.
 - ⚡ Strong bias for shipping: idea → production fast, measured against real business KPIs, not vanity metrics.
 - 🤝 Comfortable talking about both **code and unit economics** — I bridge complex technical systems, product strategy and business goals.
@@ -44,7 +44,7 @@
 
 ---
 
-## 🤖 AI & automation portfolio (2023–2025)
+## 🤖 AI & automation portfolio
 
 A selection of AI-driven systems I've designed and built for clients and myself:
 
