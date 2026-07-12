@@ -44,7 +44,7 @@
 
 ---
 
-## 🤖 AI & automation portfolio
+## 🤖 AI & automation portfolio (2023–2025)
 
 A selection of AI-driven systems I've designed and built for clients and myself:
 
