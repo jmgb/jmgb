@@ -28,7 +28,7 @@
   </thead>
   <tbody>
     <tr><td>🧱 <a href="https://presupuestor.com/"><strong>Presupuestor</strong></a></td><td>AI that generates professional construction &amp; renovation budgets in minutes, using up-to-date market prices. Built for pros tired of quoting by hand.</td></tr>
-    <tr><td>📣 <a href="https://comunicador.org/"><strong>Comunicador</strong></a></td><td>Multi-tenant platform that turns current events into editorial context and reviewable social media drafts for organizations and projects.</td></tr>
+    <tr><td>📣 <a href="https://comunicador.org/"><strong>Comunicador</strong></a></td><td>Helps organizations turn the news that matters into clear, timely social media content.</td></tr>
     <tr><td>📈 <a href="https://aiship.co/"><strong>AIShip</strong></a></td><td>Finance software with AI trading bots that automatically buy and sell US-listed stocks based on news published by the SEC.</td></tr>
     <tr><td>🚀 <a href="https://empresadeuno.com/"><strong>Empresa de Uno</strong></a></td><td>A community for solo entrepreneurs building and scaling companies with AI agents.</td></tr>
     <tr><td>🐾 <a href="https://tuli.es/"><strong>Tuli</strong></a></td><td>AI-powered pet photo service that turns your pet into a new creative adventure every week.</td></tr>
