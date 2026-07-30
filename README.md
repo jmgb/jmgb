@@ -63,6 +63,12 @@ A selection of AI-driven systems I've designed and built for clients and myself:
 
 ---
 
+## 🔓 Open source
+
+- 🧰 [**neutral-llm-gateway**](https://github.com/jmgb/llm-gateway-python) — a small, honest gateway for LLM calls in Python. Typed contracts (Pydantic v2, `mypy --strict`), thin adapters for OpenAI / Gemini / Groq, and explicit accounting of retries, fallbacks, tokens and cost: unreported usage is `None`, unknown cost is never a fake `$0`, and a fallback is never silent. Extracted from the LLM plumbing behind several of the products above.
+
+---
+
 ## 🛠️ Tech stack
 
 **Languages** · Python · TypeScript / JavaScript · Bash
