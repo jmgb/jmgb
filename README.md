@@ -71,7 +71,7 @@ A selection of AI-driven systems I've designed and built for clients and myself:
 
 ### Contributions to other projects
 
-- 🎬 [**OpenMontage**](https://github.com/calesthio/OpenMontage) (44k+ ★) — [PR #395](https://github.com/calesthio/OpenMontage/pull/395): *manifest-defined checkpoint approval profiles* — **approved by the maintainer**, pending merge. Lets a project pick its own human-approval policy without touching pipeline defaults: cheap stages run to a full composition preview, a single approval is recorded at `compose`, and the approved resume token becomes mandatory before any **paid** avatar generation runs. Fails closed by design — the persisted project marker is authoritative, so a per-call profile can never override it. +1013 / −30 across 13 files, including a 482-line contract suite covering defaults, profile overrides, approval persistence and resume validation.
+- 🎬 [**OpenMontage**](https://github.com/calesthio/OpenMontage) (44k+ ★) — [PR #395](https://github.com/calesthio/OpenMontage/pull/395): *manifest-defined checkpoint approval profiles* — **reviewed and approved by the maintainer**. Lets a project pick its own human-approval policy without touching pipeline defaults: cheap stages run to a full composition preview, a single approval is recorded at `compose`, and the approved resume token becomes mandatory before any **paid** avatar generation runs. Fails closed by design — the persisted project marker is authoritative, so a per-call profile can never override it. +1013 / −30 across 13 files, including a 482-line contract suite covering defaults, profile overrides, approval persistence and resume validation.
 
 ---
 
